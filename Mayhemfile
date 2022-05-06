@@ -1,0 +1,6 @@
+project: radeco
+target: parser
+duration: 90
+
+cmds:
+    - cmd: /parser
